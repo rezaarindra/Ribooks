@@ -1,0 +1,14 @@
+com/ribooks/ReactNativeFlipper.java
+ com.ribooks.ReactNativeFlipper
+ com.ribooks.ReactNativeFlipper$1
+ com.ribooks.ReactNativeFlipper$2
+ com.ribooks.ReactNativeFlipper$2$1
+com/ribooks/BuildConfig.java
+ com.ribooks.BuildConfig
+com/ribooks/MainActivity.java
+ com.ribooks.MainActivity
+com/ribooks/MainApplication.java
+ com.ribooks.MainApplication
+ com.ribooks.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
